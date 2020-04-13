@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- External CSS -->
+<link rel="stylesheet" type="text/css" href="style.css">
+<!-- External icon sheet for navigation bar -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<!-- External JS -->
+<script src="project.js"></script>
+
+
+<head>
+    <title>REGISTRATION</title>
+</head>
+
+
+<body>
+
+    <!-- Google Translation -->
+    <div id="google_translate_element"></div>
+    <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <br>
+
+    <!-- Logo  -->
+    <div class="welcomeheading">
+        <img class="logo" src="logo.jpg">
+    </div>
+
+    <!-- Navigation bar -->
+    <div class="tabsother">
+        <a href="index.html" target="_blank"><i class="fa fa-fw fa-home"></i>Home</a>
+        <a href="contacts.html" target="_blank"><i class="fa fa-fw fa-envelope"></i>Contacts</a>
+        <a href="vacationpackage.html" target="_blank"><i class="fa fa-fw fa-plane"></i>Vacation Packages</a>
+        <a><i class="fa fa-fw fa-user"></i>Login/Registration</a>
+        <a href="aboutus.html" target="_blank">About Us</a>
+    </div>
+    
+    <!-- Content -->
+    <div class="registration">
+        <div class="inputdata">
+            <form>
+                <fieldset>
+                    <legend>REGISTRATION</legend>
+                    <table>
+                        <tr>
+                            <td>First Name</td>
+                            <td><input type="text" id="fName" placeholder="First Name" required
+                                    onkeyup="validA(this,document.getElementById('x1'))"><span id="x1"
+                                    class="errorSymbol">Please enter letters only</span></td>
+                        </tr>
+
+                        <tr>
+                            <td>Last Name</td>
+                            <td><input type="text" id="lName" placeholder="Last Name" required
+                                    onkeyup="validA(this,document.getElementById('x2'))"><span id="x2"
+                                    class="errorSymbol">Please enter letters only</span></td>
+                        </tr>
+
+                        <tr>
+                            <td>Unit #</td>
+                            <td><input type="text" id="unit" placeholder="Unit Number"></td>
+                        </tr>
+                        <tr>
+                            <td>Street Name</td>
+                            <td><input type="text" id="street" placeholder="Street Name"></td>
+                        </tr>
+
+                        <tr>
+                            <td>City</td>
+                            <td><input type="text" id="city" placeholder="City"
+                                    onkeyup="validA(this,document.getElementById('x4'))"><span id="x4"
+                                    class="errorSymbol">Please enter a valid city name</span></td>
+                        </tr>
+
+                        <tr>
+                            <td>Province</td>
+                            <td><input type="text" id="province" placeholder="Province"
+                                    onkeyup="validA(this,document.getElementById('x5'))"><span id="x5"
+                                    class="errorSymbol">Please enter a valid province name</span></td>
+                        </tr>
+
+                        <tr>
+                            <td>Postal Code</td>
+                            <td><input type="text" id="postalCode" placeholder="Postal Code"></td>
+                        </tr>
+
+                        <tr>
+                            <td>County</td>
+                            <td><input type="text" id="country" placeholder="Country"
+                                    onkeyup="validA(this,document.getElementById('x7'))"><span id="x7"
+                                    class="errorSymbol">Please enter a valid country name</span></td>
+                        </tr>
+                        <tr>
+                            <td>Email</td>
+                            <td><input type="email" id="email" placeholder="Email" required></td>
+                        </tr>
+                        <tr>
+                            <td>Password</td>
+                            <td><input type="password" id="pwd" placeholder="Password" required></td>
+                        </tr>
+                        <tr>
+                            <td>Retype Password</td>
+                            <td><input type="password" id="repwd" placeholder="Retype Password" required
+                                    onkeyup="validatePass(this,document.getElementById('x10'))"><br><span id="x10"
+                                    class="errorSymbol">Password does not match</span></td>
+                        </tr>
+                        <tr>
+                            <input type="radio" id="gender" value="Male" required>Male
+                            <input type="radio" id="gender" value="Female" required>Female
+                        </tr>
+                        <td><input type="submit"></td>
+                        <td><input type="reset"></td>
+
+            </form>
+            </table>
+            </fieldset>
+        </div>
+    </div>
+
+    <!-- Copyright -->
+    <div class="copyright">
+        <p>&copy; All Rights Rerseved to Travel Experts</p>
+    </div>
+
+</body>
+
+</html>
