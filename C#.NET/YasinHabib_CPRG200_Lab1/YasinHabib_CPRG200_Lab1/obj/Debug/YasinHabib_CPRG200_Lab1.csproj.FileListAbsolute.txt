@@ -1,0 +1,10 @@
+C:\Users\604829\Desktop\Software Dev\RAD programming C# ASPnet\Assignments\YasinHabib_CPRG200_Lab1\YasinHabib_CPRG200_Lab1\bin\Debug\YasinHabib_CPRG200_Lab1.exe.config
+C:\Users\604829\Desktop\Software Dev\RAD programming C# ASPnet\Assignments\YasinHabib_CPRG200_Lab1\YasinHabib_CPRG200_Lab1\bin\Debug\YasinHabib_CPRG200_Lab1.exe
+C:\Users\604829\Desktop\Software Dev\RAD programming C# ASPnet\Assignments\YasinHabib_CPRG200_Lab1\YasinHabib_CPRG200_Lab1\bin\Debug\YasinHabib_CPRG200_Lab1.pdb
+C:\Users\604829\Desktop\Software Dev\RAD programming C# ASPnet\Assignments\YasinHabib_CPRG200_Lab1\YasinHabib_CPRG200_Lab1\obj\Debug\YasinHabib_CPRG200_Lab1.csprojAssemblyReference.cache
+C:\Users\604829\Desktop\Software Dev\RAD programming C# ASPnet\Assignments\YasinHabib_CPRG200_Lab1\YasinHabib_CPRG200_Lab1\obj\Debug\YasinHabib_CPRG200_Lab1.frmBill.resources
+C:\Users\604829\Desktop\Software Dev\RAD programming C# ASPnet\Assignments\YasinHabib_CPRG200_Lab1\YasinHabib_CPRG200_Lab1\obj\Debug\YasinHabib_CPRG200_Lab1.Properties.Resources.resources
+C:\Users\604829\Desktop\Software Dev\RAD programming C# ASPnet\Assignments\YasinHabib_CPRG200_Lab1\YasinHabib_CPRG200_Lab1\obj\Debug\YasinHabib_CPRG200_Lab1.csproj.GenerateResource.cache
+C:\Users\604829\Desktop\Software Dev\RAD programming C# ASPnet\Assignments\YasinHabib_CPRG200_Lab1\YasinHabib_CPRG200_Lab1\obj\Debug\YasinHabib_CPRG200_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\604829\Desktop\Software Dev\RAD programming C# ASPnet\Assignments\YasinHabib_CPRG200_Lab1\YasinHabib_CPRG200_Lab1\obj\Debug\YasinHabib_CPRG200_Lab1.exe
+C:\Users\604829\Desktop\Software Dev\RAD programming C# ASPnet\Assignments\YasinHabib_CPRG200_Lab1\YasinHabib_CPRG200_Lab1\obj\Debug\YasinHabib_CPRG200_Lab1.pdb

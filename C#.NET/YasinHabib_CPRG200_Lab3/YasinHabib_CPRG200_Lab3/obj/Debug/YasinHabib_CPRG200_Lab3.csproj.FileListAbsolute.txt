@@ -1,0 +1,10 @@
+C:\Users\mpadmin\source\repos\YasinHabib_CPRG200_Lab3\YasinHabib_CPRG200_Lab3\bin\Debug\YasinHabib_CPRG200_Lab3.exe.config
+C:\Users\mpadmin\source\repos\YasinHabib_CPRG200_Lab3\YasinHabib_CPRG200_Lab3\bin\Debug\YasinHabib_CPRG200_Lab3.exe
+C:\Users\mpadmin\source\repos\YasinHabib_CPRG200_Lab3\YasinHabib_CPRG200_Lab3\bin\Debug\YasinHabib_CPRG200_Lab3.pdb
+C:\Users\mpadmin\source\repos\YasinHabib_CPRG200_Lab3\YasinHabib_CPRG200_Lab3\obj\Debug\YasinHabib_CPRG200_Lab3.csprojAssemblyReference.cache
+C:\Users\mpadmin\source\repos\YasinHabib_CPRG200_Lab3\YasinHabib_CPRG200_Lab3\obj\Debug\YasinHabib_CPRG200_Lab3.Properties.Resources.resources
+C:\Users\mpadmin\source\repos\YasinHabib_CPRG200_Lab3\YasinHabib_CPRG200_Lab3\obj\Debug\YasinHabib_CPRG200_Lab3.csproj.GenerateResource.cache
+C:\Users\mpadmin\source\repos\YasinHabib_CPRG200_Lab3\YasinHabib_CPRG200_Lab3\obj\Debug\YasinHabib_CPRG200_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\mpadmin\source\repos\YasinHabib_CPRG200_Lab3\YasinHabib_CPRG200_Lab3\obj\Debug\YasinHabib_CPRG200_Lab3.exe
+C:\Users\mpadmin\source\repos\YasinHabib_CPRG200_Lab3\YasinHabib_CPRG200_Lab3\obj\Debug\YasinHabib_CPRG200_Lab3.pdb
+C:\Users\mpadmin\source\repos\YasinHabib_CPRG200_Lab3\YasinHabib_CPRG200_Lab3\obj\Debug\YasinHabib_CPRG200_Lab3.frmDatabaseViewer.resources

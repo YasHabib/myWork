@@ -1,0 +1,10 @@
+C:\Users\mpadmin\source\repos\YasinHabib_CPRG200_Lab4(LINQ)\YasinHabib_CPRG200_Lab4(LINQ)\bin\Debug\YasinHabib_CPRG200_Lab4(LINQ).exe.config
+C:\Users\mpadmin\source\repos\YasinHabib_CPRG200_Lab4(LINQ)\YasinHabib_CPRG200_Lab4(LINQ)\bin\Debug\YasinHabib_CPRG200_Lab4(LINQ).exe
+C:\Users\mpadmin\source\repos\YasinHabib_CPRG200_Lab4(LINQ)\YasinHabib_CPRG200_Lab4(LINQ)\bin\Debug\YasinHabib_CPRG200_Lab4(LINQ).pdb
+C:\Users\mpadmin\source\repos\YasinHabib_CPRG200_Lab4(LINQ)\YasinHabib_CPRG200_Lab4(LINQ)\obj\Debug\YasinHabib_CPRG200_Lab4(LINQ).csprojAssemblyReference.cache
+C:\Users\mpadmin\source\repos\YasinHabib_CPRG200_Lab4(LINQ)\YasinHabib_CPRG200_Lab4(LINQ)\obj\Debug\YasinHabib_CPRG200_Lab4_LINQ_.Properties.Resources.resources
+C:\Users\mpadmin\source\repos\YasinHabib_CPRG200_Lab4(LINQ)\YasinHabib_CPRG200_Lab4(LINQ)\obj\Debug\YasinHabib_CPRG200_Lab4(LINQ).csproj.GenerateResource.cache
+C:\Users\mpadmin\source\repos\YasinHabib_CPRG200_Lab4(LINQ)\YasinHabib_CPRG200_Lab4(LINQ)\obj\Debug\YasinHabib_CPRG200_Lab4(LINQ).csproj.CoreCompileInputs.cache
+C:\Users\mpadmin\source\repos\YasinHabib_CPRG200_Lab4(LINQ)\YasinHabib_CPRG200_Lab4(LINQ)\obj\Debug\YasinHabib_CPRG200_Lab4(LINQ).exe
+C:\Users\mpadmin\source\repos\YasinHabib_CPRG200_Lab4(LINQ)\YasinHabib_CPRG200_Lab4(LINQ)\obj\Debug\YasinHabib_CPRG200_Lab4(LINQ).pdb
+C:\Users\mpadmin\source\repos\YasinHabib_CPRG200_Lab4(LINQ)\YasinHabib_CPRG200_Lab4(LINQ)\obj\Debug\YasinHabib_CPRG200_Lab4_LINQ_.Form1.resources
