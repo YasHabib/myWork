@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Student Average</title>
+   
+
+    <script>
+        function reset() { // for reset button to work, it'll erase all comment and set the values to 0
+            let mark_1 = document.getElementById("mark1").value = 0;
+            let mark_2 = document.getElementById("mark2").value = 0;
+            let mark_3 = document.getElementById("mark3").value = 0;
+            let message;
+            let average;
+            document.getElementById("message").innerHTML = ("");
+            document.getElementById("average").innerHTML = ("")
+
+        }
+
+        function calculateAverage() { // for calculating the average
+            let mark_1 = Number(document.getElementById("mark1").value);
+            console.log(mark_1);
+            let mark_2 = Number(document.getElementById("mark2").value);
+            console.log(mark_2)
+            let mark_3 = Number(document.getElementById("mark3").value);
+            console.log(mark_3)
+            let average = (mark_1 + mark_2 + mark_3) / 3
+
+            document.getElementById("average").innerHTML = (`Your average is ${average}%`)
+        
+        // special message conditions
+            if (average >= 80) {
+                document.getElementById("message").innerHTML = ("Star Student");
+                document.getElementById("message").style.color = "green";
+                document.getElementById("message").style.fontSize = "20px"
+            }
+            else if (average >= 60 && average < 80) {
+                document.getElementById("message").innerHTML = ("Keep up the good work");
+                document.getElementById("message").style.color = "orange";
+                document.getElementById("message").style.fontSize = "20px"
+            }
+            else {
+                document.getElementById("message").innerHTML = ("Parent signature required!");
+                document.getElementById("message").style.color = "red";
+                document.getElementById("message").style.fontSize = "100px";
+            }
+
+        }
+
+    </script>
+</head>
+
+<body>
+    <table>
+        <tr>
+            <td>Quiz 1 Mark:</td>
+            <td><input type="number" id="mark1"></td>
+        </tr>
+        <tr>
+            <td>Quiz 2 Mark:</td>
+            <td><input type="number" id="mark2"></td>
+        </tr>
+        <tr>
+            <td>Quiz 3 Mark:</td>
+            <td><input type="number" id="mark3"></td>
+        </tr>
+    </table>
+    <input type="button" value="Calculate Average" onclick="calculateAverage()">
+    <input type="reset" value="Reset" onclick="reset()">
+
+      
+    <p id="average">Student Average</p>
+    <br><br>
+    <p id="message">Special message</p>
+
+
+</body>
+
+
+</html>

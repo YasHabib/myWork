@@ -1,0 +1,12 @@
+C:\Users\mpadmin\source\repos\Yasin_Habib_CPRG214_Lab1\Lab1_Data\bin\Debug\Lab1_Data.dll
+C:\Users\mpadmin\source\repos\Yasin_Habib_CPRG214_Lab1\Lab1_Data\bin\Debug\Lab1_Data.pdb
+C:\Users\mpadmin\source\repos\Yasin_Habib_CPRG214_Lab1\Lab1_Data\obj\Debug\Lab1_Data.csprojAssemblyReference.cache
+C:\Users\mpadmin\source\repos\Yasin_Habib_CPRG214_Lab1\Lab1_Data\obj\Debug\Lab1_Data.csproj.CoreCompileInputs.cache
+C:\Users\mpadmin\source\repos\Yasin_Habib_CPRG214_Lab1\Lab1_Data\obj\Debug\Lab1_Data.dll
+C:\Users\mpadmin\source\repos\Yasin_Habib_CPRG214_Lab1\Lab1_Data\obj\Debug\Lab1_Data.pdb
+C:\Users\mpadmin\source\repos\Yasin_Habib_CPRG214_Lab1\Lab1_Data\bin\Debug\Lab1_Data.dll.config
+C:\Users\mpadmin\source\repos\Yasin_Habib_CPRG214_Lab1\Lab1_Data\bin\Debug\EntityFramework.dll
+C:\Users\mpadmin\source\repos\Yasin_Habib_CPRG214_Lab1\Lab1_Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mpadmin\source\repos\Yasin_Habib_CPRG214_Lab1\Lab1_Data\bin\Debug\EntityFramework.xml
+C:\Users\mpadmin\source\repos\Yasin_Habib_CPRG214_Lab1\Lab1_Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mpadmin\source\repos\Yasin_Habib_CPRG214_Lab1\Lab1_Data\obj\Debug\Lab1_Data.csproj.CopyComplete

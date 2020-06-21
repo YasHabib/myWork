@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Average by split</title>
+
+</head>
+
+<body>
+    <script>
+        function calculateAverage() {
+            let str = document.getElementById("valuesEntered").value; // deifining the values entered 
+
+
+            values = str.split(","); // splitting the values and changing them to numbers
+            console.log(values)
+            console.log(values.length); // getting the total number of values
+            let sum = 0
+            for (let i = 0; i < values.length; i++) { //Calculating average
+                sum = sum + Number(values[i]);
+                average = sum / values.length;
+            }
+            document.getElementById("average").innerHTML = (`The average is: ${average}`);
+        }
+    </script>
+
+
+    <!-- Enter the values -->
+    <table>
+        <tr>Please enter your numbers seperated by a coma (,)</tr>
+        <tr>
+            <td><input type="text" id="valuesEntered"></td>
+            <td><p id="average">The average goes here</p></td>
+        </tr>
+    </table>
+    <br>
+    <input type="button" value="Calculate Average" onclick="calculateAverage()">
+</body>
+
+</html>

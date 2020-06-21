@@ -1,0 +1,14 @@
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\BLL.AssetTracking\bin\Debug\netcoreapp3.1\BLL.AssetTracking.deps.json
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\BLL.AssetTracking\bin\Debug\netcoreapp3.1\BLL.AssetTracking.dll
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\BLL.AssetTracking\bin\Debug\netcoreapp3.1\BLL.AssetTracking.pdb
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\BLL.AssetTracking\bin\Debug\netcoreapp3.1\Data.AssetTracking.dll
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\BLL.AssetTracking\bin\Debug\netcoreapp3.1\Domain.AssetTracking.dll
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\BLL.AssetTracking\bin\Debug\netcoreapp3.1\Data.AssetTracking.pdb
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\BLL.AssetTracking\bin\Debug\netcoreapp3.1\Domain.AssetTracking.pdb
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\BLL.AssetTracking\obj\Debug\netcoreapp3.1\BLL.AssetTracking.csprojAssemblyReference.cache
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\BLL.AssetTracking\obj\Debug\netcoreapp3.1\BLL.AssetTracking.csproj.CoreCompileInputs.cache
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\BLL.AssetTracking\obj\Debug\netcoreapp3.1\BLL.AssetTracking.AssemblyInfoInputs.cache
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\BLL.AssetTracking\obj\Debug\netcoreapp3.1\BLL.AssetTracking.AssemblyInfo.cs
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\BLL.AssetTracking\obj\Debug\netcoreapp3.1\BLL.AssetTracking.csproj.CopyComplete
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\BLL.AssetTracking\obj\Debug\netcoreapp3.1\BLL.AssetTracking.dll
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\BLL.AssetTracking\obj\Debug\netcoreapp3.1\BLL.AssetTracking.pdb

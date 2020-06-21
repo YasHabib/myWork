@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Quiz average</title>
+
+    <script>
+        // Validation
+        function validation(checkFields, error) {
+            if (isNaN(checkFields.value)) {
+                error.style.display = "inline"
+            }
+            else {
+                error.style.display = "none"
+            }
+
+
+        }
+        function createTables(numQuiz, location) {
+
+            // The disappearing act!!
+
+            let label = document.getElementById("quiznum");
+            if (label.style.display === "none") {
+                label.style.display = "block";
+            } else {
+                label.style.display = "none";
+            }
+            // Now here come's the table!!
+
+            numQuiz = Number(numQuiz.value);
+
+            HTMLquiz = "";
+            HTMLquiz += "<table border='1'>";
+            for (rows = 0; rows < numQuiz; rows++) {
+                HTMLquiz += "<tr>";
+                HTMLquiz += `<td> Quiz Mark ${rows + 1} </td>`;
+                HTMLquiz += `<td> <input id="quizmark${rows + 1}" type ="text"</td>`;
+                HTMLquiz += "</tr>";
+            }
+            HTMLquiz += "</table>"
+            console.log(HTMLquiz);
+
+            location.innerHTML = HTMLquiz;
+
+            //The re-appearing act!!
+
+            let button = document.getElementById("button");
+            if (button.style.display == "none") {
+                button.style.display = "none";
+            } else {
+                button.style.display = "block";
+
+            }
+
+            // Calculating Average
+        }
+        function calcAvg() {
+            numQuiz = Number(document.getElementById("numQuiz").value);
+            console.log(numQuiz);
+            let total = 0;
+
+            for (rows = 0; rows < numQuiz; rows++) {
+                let markQuiz = Number(document.getElementById(`quizmark${rows + 1}`).value);
+                console.log(markQuiz);
+                total += markQuiz;
+
+            }
+            let average = total / numQuiz;
+            document.getElementById("average").innerHTML = `The average is ${average}`;
+        }
+
+
+    </script>
+</head>
+<style>
+    .quiznumber {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+
+    }
+
+    .button {
+        display: none;
+    }
+</style>
+
+<body>
+    <!-- Enter the number of quizes -->
+    <div class="quiznumber" id="quiznum">
+        <span style="margin: 15px;">
+            Number of Quizes&nbsp
+            <input type="text" id="numQuiz" maxlength="2" onkeyup="validation(this, document.getElementById('x'))">
+            <span id="x" style="color: red; display: none;">&#x2717</span>
+        </span>
+        <!-- GO! button -->
+        <input type="button" value="GO!" style="margin: 10px;" onclick="createTables(document.getElementById('numQuiz'),
+                                  document.getElementById('quizTable'))">
+    </div>
+
+    <!-- Table location -->
+    <div id="quizTable" class="quizTable">
+
+    </div>
+
+    <!-- Button to calculate the average and the paragraph -->
+    <div class="button" id="button">
+        <br>
+        <input type="button" value="Calculate Average" onclick="calcAvg()">
+        <p id="average">The average goes here</p>
+    </div>
+
+</body>
+
+</html>

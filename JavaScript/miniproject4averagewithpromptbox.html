@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Quiz average</title>
+
+    <script>
+        function getAverage() {
+            let marks = 0;
+            let total = 0;
+            let average;
+            let numMarks;
+
+            let quiznum = document.getElementById("quiznum").value;
+            console.log(quiznum);
+
+
+            for (numMarks = 0; numMarks < quiznum; numMarks++) {
+                marks = Number(prompt("Please enter a mark: "));
+                console.log(marks);
+                total = total + marks;
+            }
+
+            average = total / quiznum;
+
+            document.getElementById("average").innerHTML=(`The average is ${average}`);
+
+        }
+    </script>
+</head>
+
+<body>
+
+    <table>
+        <tr>
+            <td>Number of Quizes</td>
+            <td><input type="number" id="quiznum"></td>
+            <td><input type="button" value="Calculate Average" onclick="getAverage()"></td>
+        </tr>
+    </table>
+    <br>
+    <p id="average">The average goes here</p>
+
+
+</body>
+
+</html>

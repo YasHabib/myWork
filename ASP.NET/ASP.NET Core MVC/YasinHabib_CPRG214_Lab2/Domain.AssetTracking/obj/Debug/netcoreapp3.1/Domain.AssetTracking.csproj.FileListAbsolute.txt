@@ -1,0 +1,9 @@
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\Domain.AssetTracking\bin\Debug\netcoreapp3.1\Domain.AssetTracking.deps.json
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\Domain.AssetTracking\bin\Debug\netcoreapp3.1\Domain.AssetTracking.dll
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\Domain.AssetTracking\obj\Debug\netcoreapp3.1\Domain.AssetTracking.AssemblyInfoInputs.cache
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\Domain.AssetTracking\obj\Debug\netcoreapp3.1\Domain.AssetTracking.AssemblyInfo.cs
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\Domain.AssetTracking\bin\Debug\netcoreapp3.1\Domain.AssetTracking.pdb
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\Domain.AssetTracking\obj\Debug\netcoreapp3.1\Domain.AssetTracking.csproj.CoreCompileInputs.cache
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\Domain.AssetTracking\obj\Debug\netcoreapp3.1\Domain.AssetTracking.dll
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\Domain.AssetTracking\obj\Debug\netcoreapp3.1\Domain.AssetTracking.pdb
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\Domain.AssetTracking\obj\Debug\netcoreapp3.1\Domain.AssetTracking.csprojAssemblyReference.cache

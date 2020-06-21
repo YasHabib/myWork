@@ -1,0 +1,37 @@
+﻿@*@model IEnumerable<Presentation.AssetTracking.Models.AssetViewModel>*@
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h3>Asset List</h3>
+<hr />
+
+<h6>Search by Asset Type</h6>
+
+<select id="cboAssetTypes" asp-items="ViewBag.AssetTypes"></select>
+
+<div id="uxDisplay">
+    @await Component.InvokeAsync("AssetsByType", 0)
+</div>
+
+
+@section Scripts {
+    <script>
+        $(document).ready(function () { 
+            //alert('loaded');
+            $("#cboAssetTypes").change(function () {
+                var assetTypeId = $("#cboAssetTypes").val();
+                $.ajax({
+                    method: 'GET',
+                    url: 'Asset/GetAssetsByType', //I put "/" before Asset like he did, but it didnt work, took it off and worked beautifully, not sure why.
+                    data: { id: assetTypeId }
+                }).done(function (result, statusText, xhdr) {
+                    $("#uxDisplay").html(result);
+                });//Enf of AJAX
+            });//end of cboAssetTypes
+        });//End of document
+
+    </script>
+}
+

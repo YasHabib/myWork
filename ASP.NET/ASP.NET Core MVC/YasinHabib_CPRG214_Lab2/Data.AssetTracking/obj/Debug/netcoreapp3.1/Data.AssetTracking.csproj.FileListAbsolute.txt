@@ -1,0 +1,15 @@
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\Data.AssetTracking\bin\Debug\netcoreapp3.1\Data.AssetTracking.deps.json
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\Data.AssetTracking\bin\Debug\netcoreapp3.1\Data.AssetTracking.dll
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\Data.AssetTracking\obj\Debug\netcoreapp3.1\Data.AssetTracking.csprojAssemblyReference.cache
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\Data.AssetTracking\obj\Debug\netcoreapp3.1\Data.AssetTracking.AssemblyInfoInputs.cache
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\Data.AssetTracking\obj\Debug\netcoreapp3.1\Data.AssetTracking.AssemblyInfo.cs
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\Data.AssetTracking\bin\Debug\netcoreapp3.1\Data.AssetTracking.runtimeconfig.json
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\Data.AssetTracking\bin\Debug\netcoreapp3.1\Data.AssetTracking.runtimeconfig.dev.json
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\Data.AssetTracking\bin\Debug\netcoreapp3.1\Data.AssetTracking.pdb
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\Data.AssetTracking\bin\Debug\netcoreapp3.1\Domain.AssetTracking.dll
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\Data.AssetTracking\bin\Debug\netcoreapp3.1\Domain.AssetTracking.pdb
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\Data.AssetTracking\obj\Debug\netcoreapp3.1\Data.AssetTracking.csproj.CoreCompileInputs.cache
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\Data.AssetTracking\obj\Debug\netcoreapp3.1\Data.AssetTracking.csproj.CopyComplete
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\Data.AssetTracking\obj\Debug\netcoreapp3.1\Data.AssetTracking.dll
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\Data.AssetTracking\obj\Debug\netcoreapp3.1\Data.AssetTracking.pdb
+C:\Users\mpadmin\source\repos\ASPdotNET\Assignment 2\YasinHabib_CPRG214_Lab2\Data.AssetTracking\obj\Debug\netcoreapp3.1\Data.AssetTracking.genruntimeconfig.cache
